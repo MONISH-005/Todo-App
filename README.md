@@ -11,7 +11,7 @@ This app helps you manage daily tasks with an intuitive UI and basic CRUD (Creat
 - ✏️ Edit existing tasks  
 - ✅ Mark tasks as completed  
 - 🗑️ Delete tasks  
-- 📅 (Optional) Add due dates with DateTime Picker  
+- 📅 Add due dates with DateTime Picker  
 - 📱 Cross-platform support (Android & iOS)  
 
 ---
