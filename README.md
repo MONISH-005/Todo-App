@@ -26,17 +26,21 @@ updated_todo_app/
 ├── package.json      # Dependencies & scripts
 └── README.md         # Project documentation
 
+```
+
 ## 🛠️ Installation & Setup
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/MONISH-005/Todo-App.git
    cd Todo-App
+   ```
 2. **Install dependencies**
-```bash
-npm install
+   ```bash
+   npm install
+   ```
 3. **Run the app**
-```bash
-npx expo start
-
+   ```bash
+   npx expo start
+   ```
 
